@@ -1,3 +1,8 @@
+Nama : Riqi Ramdani
+Jrusan : TI Reguler Sore
+MAPEL : Mobile Programing
+
+
 Design web disdukcapil cianjur 
 dalam design ini saya mencoba melakukan beberapa perubahan diantaranya :
 1. Memisahkan web informasi dengan sistem pembuatan KTP
