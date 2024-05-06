@@ -2,6 +2,7 @@ Nama : Riqi Ramdani
 Jrusan : TI Reguler Sore
 MAPEL : Mobile Programing
 
+Dinas Kependudukan dan Pencatatan Sipil merupakan unsur pelaksana Pemerintah Daerah di bidang Kependudukan dan Pencatatan Sipil yang dipimpin oleh Kepala Dinas dan berkedudukan di bawah dan bertanggungjawab kepada Bupati melalui Sekretaris Daerah. Dinas Kependudukan dan Pencatatan Sipil mempunyai tugas melaksanakan urusan rumah tangga Pemerintah Daerah dan tugas pembantuan di bidang Kependudukan dan Pencatatan Sipil.
 
 Design web disdukcapil cianjur 
 dalam design ini saya mencoba melakukan beberapa perubahan diantaranya :
